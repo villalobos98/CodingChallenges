@@ -1,4 +1,4 @@
-# CodingChallenges
+# Cryptography 101
 A Caesar Cipher Encoder and Decoder. Create you own cipher using my implementation !
 
 ## Installation
